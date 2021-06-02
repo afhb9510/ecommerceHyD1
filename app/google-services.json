@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1009073815266",
+    "project_id": "hyd-app-88a7f",
+    "storage_bucket": "hyd-app-88a7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009073815266:android:25f9851a28a07172c228bb",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009073815266-ir3hsn67927c9sq4pmg7r6hqt7jv790o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ecommerce",
+            "certificate_hash": "9ae6e7b3533ed5474f3093b99ead1d65a9e5297c"
+          }
+        },
+        {
+          "client_id": "1009073815266-6nsrangfsl858gc9asd5sff2doh3inpe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCZbVTAeUwwDECe-kV8YJA2VLHAORAuYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009073815266-6nsrangfsl858gc9asd5sff2doh3inpe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

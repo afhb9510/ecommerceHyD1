@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "628220128307",
+    "firebase_url": "https://cart-app-4de62-default-rtdb.firebaseio.com",
+    "project_id": "cart-app-4de62",
+    "storage_bucket": "cart-app-4de62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628220128307:android:cafe4b03f54877a7aa0746",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628220128307-okmoph2mkv9clh9lp918vf4a33rfgsq8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcfZ5dZ9d7-sXSlvvzWAc2Aiue1y5Zq4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628220128307-okmoph2mkv9clh9lp918vf4a33rfgsq8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
